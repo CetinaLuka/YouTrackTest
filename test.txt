@@ -1,1 +1,4 @@
 Testni txt
+še ena vrstica
+še ena
+pa šđe zadnja
