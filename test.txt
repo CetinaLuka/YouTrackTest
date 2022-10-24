@@ -2,3 +2,11 @@ Testni txt
 še ena vrstica
 še ena
 pa šđe zadnja
+Testni txt
+še ena vrstica
+še ena
+pa šđe zadnja
+Testni txt
+še ena vrstica
+še ena
+pa šđe zadnja
